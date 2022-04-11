@@ -8,12 +8,13 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12">
                         <div class="text-white text-center">
-                            <h1 class="header_title mb-0 mt-3 text-center text-white mx-auto">Creative By Landing Page</h1>
-                            <p class="header_subtitle text-white mx-auto mt-3 mb-0">It is a long established fact that a reader will be distracted by the.</p>
+                            <h1 class="header_title mb-0 mt-3 text-center text-white mx-auto">Especialista em criar
+                                Soluções</h1>
+                            <p class="header_subtitle text-white mx-auto mt-3 mb-0">Consultoria e Desenvolvimento de Sistemas</p>
                             <ul class="mb-0 list-inline text-center skill_home mt-5">
-                                <li class="list-inline-item mr-0">Living In Poland</li>
-                                <li class="list-inline-item mr-0">+78 123 654 78</li>
-                                <li class="list-inline-item mr-0">example@gmail.com</li>
+                                <li class="list-inline-item mr-0">Petrópolis</li>
+                                <li class="list-inline-item mr-0">(24) 98115-6051</li>
+                                <li class="list-inline-item mr-0">contato@pan-it.com.br</li>
                             </ul>
                             <ul class="social_home list-unstyled text-center pt-5">
                                 <li class="list-inline-item"><a href="#"><i class="mdi mdi-facebook"></i></a></li>
@@ -22,9 +23,6 @@
                                 <li class="list-inline-item"><a href="#"><i class="mdi mdi-google-plus"></i></a></li>
                                 <li class="list-inline-item"><a href="#"><i class="mdi mdi-twitter"></i></a></li>
                             </ul>
-                            <div class="header_btn">
-                                <a href="#" class="btn btn-outline-custom btn-rounded mt-4 mr-3">Learn More</a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -40,7 +38,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section_title text-center">
-                    <h3><span class="font-weight-bold">About</span> Me</h3>
+                    <h3><span class="font-weight-bold">Sobre</span> Nós</h3>
                     <div class="vr_line mx-auto d-block"></div>
                     <p class="sec_subtitle mx-auto text-muted pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
