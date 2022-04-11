@@ -61,22 +61,22 @@
                             <a href="#about" class="nav-link">Sobre</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#services" class="nav-link">Services</a>
+                            <a href="#services" class="nav-link">Serviços</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#resume" class="nav-link">Resume</a>
+                            <a href="#resume" class="nav-link">Resumo</a>
                         </li>
                         <li class="nav-item">
                             <a href="#work" class="nav-link">Work</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#client" class="nav-link">Client</a>
+                            <a href="#client" class="nav-link">Clientes</a>
                         </li>
                         <li class="nav-item">
                             <a href="#blog" class="nav-link">Blog</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#contact" class="nav-link">Contact</a>
+                            <a href="#contact" class="nav-link">Contato</a>
                         </li>
                     </ul>
                 </div>
