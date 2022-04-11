@@ -628,6 +628,11 @@
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
+                            <input type="text" name="telefone" id="telefone" class="form-control" placeholder="Digite um número de telefone" maxlength="15" />
+                        </div>
+                    </div>
+                    <div class="form-row mt-3">
+                        <div class="col">
                             <input type="text" class="form-control" id="subject" placeholder="Your Subject..">
                         </div>
                     </div>

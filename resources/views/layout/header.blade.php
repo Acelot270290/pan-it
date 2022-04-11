@@ -7,7 +7,7 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Oskar | Responsive Bootstrap 4 Landing Template</title>
+        <title>Pan It | Acessoria e Desenvolvimento de Sistemas</title>
         <meta name="description" content="" />
         <meta name="keywords" content="" />
         <meta name="author" content="CreataThemes" />
@@ -15,7 +15,7 @@
         <link rel="shortcut icon" href="img/fevicon.png">
 
         <!--Bootstrap Css-->
-        <link rel="stylesheet" type="text/css" href="{{asset('/assets/css/bootstrap.min.css')}}" />
+        <link rel="stylesheet" type="text/css" href="{{url('/assets/css/bootstrap.min.css')}}" />
 
         <link rel="stylesheet" href="css/magnific-popup.css">
 
@@ -36,6 +36,8 @@
 
         <!-- Custom style Css -->
         <link href="css/style.css" rel="stylesheet">
+
+    
 
     </head>
 
@@ -67,7 +69,7 @@
                             <a href="#resume" class="nav-link">Resumo</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#work" class="nav-link">Work</a>
+                            <a href="#work" class="nav-link">Sócios</a>
                         </li>
                         <li class="nav-item">
                             <a href="#client" class="nav-link">Clientes</a>
