@@ -15,7 +15,7 @@
         <link rel="shortcut icon" href="img/fevicon.png">
 
         <!--Bootstrap Css-->
-        <link rel="stylesheet" type="text/css" href="{{url('public/css/bootstrap.min.css')}}" />
+        <link rel="stylesheet" type="text/css" href="{{assets('public/css/bootstrap.min.css')}}" />
 
         <link rel="stylesheet" href="css/magnific-popup.css">
 
