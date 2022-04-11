@@ -20,22 +20,22 @@
         <link rel="stylesheet" href="{{url('/css/magnific-popup.css')}}">
 
         <!-- Animate Css -->
-        <link rel="stylesheet" href="css/animate.min.css">
+        <link rel="stylesheet" href="{{url('css/animate.min.css')}}">
 
         <!-- Materialdesign icons Css -->
-        <link href="css/materialdesignicons.min.css" rel="stylesheet">
+        <link href="{{url('css/materialdesignicons.min.css')}}" rel="stylesheet">
 
         <!-- pe-icon-7 css -->
-        <link href="css/pe-icon-7.css" rel="stylesheet">
+        <link href="{{url('css/pe-icon-7.css')}}" rel="stylesheet">
 
         <!-- Owl Slider -->
-        <link rel="stylesheet" href="css/owl.carousel.css" />
-        <link rel="stylesheet" href="css/owl.theme.css" />
-        <link rel="stylesheet" href="css/owl.transitions.css" />
+        <link rel="stylesheet" href="{{url('css/owl.carousel.css')}}" />
+        <link rel="stylesheet" href="{{url('css/owl.theme.css')}}" />
+        <link rel="stylesheet" href="{{url('css/owl.transitions.css')}}" />
 
 
         <!-- Custom style Css -->
-        <link href="css/style.css" rel="stylesheet">
+        <link href="{{url('css/style.css')}}" rel="stylesheet">
 
     
 

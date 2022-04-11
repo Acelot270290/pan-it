@@ -60,7 +60,7 @@
         <div class="row pt-3 pb-3">
             <div class="col-lg-12">
                 <div class="float-left float_none">
-                    <p class="copy-rights mb-0"><a target="_blank" href="https://www.templateshub.net">Templates Hub</a>
+                    <p class="copy-rights mb-0"><a target="_blank" href="#">Pan-It</a>
                     </p>
                 </div>
                 <div class="float-right float_none">
@@ -85,29 +85,29 @@
 <a href="#" class="back_top" style="display: inline;"> <i class="pe-7s-up-arrow"> </i> </a>
 
 <!-- JAVASCRIPTS -->
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/jquery.easing.min.js"></script>
+<script src="{{url('js/jquery.min.js')}}"></script>
+<script src="{{url('js/bootstrap.min.js')}}"></script>
+<script src="{{url('js/popper.min.js')}}"></script>
+<script src="{{url('js/jquery.easing.min.js')}}"></script>
 
 <!-- scrollspy js -->
-<script src="js/scrollspy.min.js"></script>
+<script src="{{url('js/scrollspy.min.js')}}"></script>
 
 <!-- isotope js -->
-<script src="js/isotope.js"></script>
+<script src="{{url('js/isotope.js')}}"></script>
 
 <!-- magnific js -->
-<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="{{url('js/jquery.magnific-popup.min.js')}}"></script>
 
 <!-- Particles Js -->
-<script src="js/particles.js"></script>
-<script src="js/particles.app.js"></script>
+<script src="{{url('js/particles.js')}}"></script>
+<script src="{{url('js/particles.app.js')}}"></script>
 
 <!-- isotope js -->
-<script src="js/isotope.js"></script>
+<script src="{{url('js/isotope.js')}}"></script>
 
 <!-- custom js -->
-<script src="js/custom.js"></script>
+<script src="{{url('js/custom.js')}}"></script>
 
 <script>
     $(".element").each(function() {
