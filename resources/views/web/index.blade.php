@@ -613,35 +613,36 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <form class="business_form_custom">
+                <form class="business_form_custom" action="{{route('send-email')}}" method="POST">
+                    @csrf
                     <div class="form-row mt-3">
                         <div class="col">
-                            <input name="name" id="name" type="text" class="form-control" placeholder="Your name...">
+                            <input name="name" id="name" type="text" class="form-control" placeholder="Seu Nome...">
                         </div>
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
-                            <input name="email" id="email" type="email" class="form-control" placeholder="Your email...">
+                            <input name="email" id="email" type="email" class="form-control" placeholder="Seu Email..." required>
                         </div>
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
-                            <input type="text" name="telefone" id="telefone" class="form-control" placeholder="Digite um número de telefone" maxlength="15" />
+                            <input type="text" name="telefone" id="telefone" class="form-control" placeholder="Digite um número de telefone..." maxlength="15" />
                         </div>
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
-                            <input type="text" class="form-control" id="subject" placeholder="Your Subject..">
+                            <input type="text" class="form-control" id="subject" name="subject" placeholder="Assunto...">
                         </div>
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
-                            <textarea name="comments" id="comments" rows="4" class="form-control" placeholder="Your message..."></textarea>
+                            <textarea name="mensage" id="mensage" rows="4" class="form-control" placeholder="Sua Mensagem..." required></textarea>
                         </div>
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
-                            <input type="submit" id="submit" name="send" class="submitBnt btn btn-custom" value="Send Message">
+                            <input type="submit" id="submit" name="send" class="submitBnt btn btn-custom" value="Enviar Mensagem">
                         </div>
                     </div>
                 </form>
@@ -650,6 +651,6 @@
     </div>
 </section>
 <!-- End Contact -->
-
+@include('sweetalert::alert')
 @include('layout.footer')
 
