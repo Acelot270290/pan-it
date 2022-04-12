@@ -31,17 +31,17 @@ class Contact extends Mailable
     public function build()
     {
         return $this->replyTo($this->data['reply_email'], $this->data['reply_name'])
-        ->to( env('MAIL_FROM_ADDRESS'), env('MAIL_FROM_NAME') )
-        ->from( env('MAIL_FROM_ADDRESS'), env('MAIL_FROM_NAME') ) 
-        ->subject('Novo Contato: '. $this->data['subject'])
-        -> markdown('email.contact', [
+            ->to(env('MAIL_FROM_ADDRESS'), env('MAIL_FROM_NAME'))
+            ->from(env('MAIL_FROM_ADDRESS'), env('MAIL_FROM_NAME'))
+            ->subject('Novo Contato: ' . $this->data['subject'])
+            ->markdown('email.contact', [
 
-            'reply_name'=> $this->data['reply_name'],
-            'reply_email'=> $this->data['reply_email'],
-            'subject'=> $this->data['subject'],
-            'telefone'=> $this->data['telefone'],
-            'mensage'=> $this->data['mensage']
+                'reply_name' => $this->data['reply_name'],
+                'reply_email' => $this->data['reply_email'],
+                'subject' => $this->data['subject'],
+                'telefone' => $this->data['telefone'],
+                'mensage' => $this->data['mensage']
 
-        ]);
+            ]);
     }
 }
