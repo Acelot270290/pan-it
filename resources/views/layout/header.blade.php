@@ -68,16 +68,10 @@
                         <a href="#services" class="nav-link">Serviços</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#resume" class="nav-link">Resumo</a>
+                        <a href="#work" class="nav-link">Trabalhos</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#work" class="nav-link">Sócios</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#client" class="nav-link">Clientes</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#blog" class="nav-link">Blog</a>
+                        <a href="#client" class="nav-link">Sócios</a>
                     </li>
                     <li class="nav-item">
                         <a href="#contact" class="nav-link">Contato</a>

@@ -1,6 +1,6 @@
 @include('layout.header')
-  <!--Start Home-->
-   <section class="home-bg-color section h-100vh" id="home">
+<!--Start Home-->
+<section class="home-bg-color section h-100vh" id="home">
     <div class="bg-overlay"></div>
     <div class="home-table">
         <div class="home-table-center">
@@ -10,7 +10,8 @@
                         <div class="text-white text-center">
                             <h1 class="header_title mb-0 mt-3 text-center text-white mx-auto">Especialista em criar
                                 Soluções</h1>
-                            <p class="header_subtitle text-white mx-auto mt-3 mb-0">Consultoria e Desenvolvimento de Sistemas</p>
+                            <p class="header_subtitle text-white mx-auto mt-3 mb-0">Consultoria e Desenvolvimento de
+                                Sistemas</p>
                             <ul class="mb-0 list-inline text-center skill_home mt-5">
                                 <li class="list-inline-item mr-0">Petrópolis</li>
                                 <li class="list-inline-item mr-0">(24) 98115-6051</li>
@@ -40,46 +41,49 @@
                 <div class="section_title text-center">
                     <h3><span class="font-weight-bold">Sobre</span> Nós</h3>
                     <div class="vr_line mx-auto d-block"></div>
-                    <p class="sec_subtitle mx-auto text-muted pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p class="sec_subtitle mx-auto text-muted pt-2">empresa brasileira de Tecnologia da Informação, que
+                        conta com a expertise de um grande time de profissionais altamente qualificados e certificados..
+                    </p>
                 </div>
             </div>
         </div>
         <div class="row mt-3 vertical-content">
             <div class="col-lg-6">
                 <div class="about_content mt-3">
-                    <h6 class="mb-3">Hello & Welcome</h6>
-                    <h3 class="mb-3 font-weight-bold text-custom">I'M Oskar Deo.</h3>
+                    <h6 class="mb-3">Seja Bem Vindo</h6>
+                    <h3 class="mb-3 font-weight-bold text-custom">Pan-it.</h3>
                     <ul class="mb-0 list-inline about-work">
-                        <li class="list-inline-item mr-0 text-muted">UI/UX Designer</li>
-                        <li class="list-inline-item mr-0 text-muted">Photographer</li>
-                        <li class="list-inline-item mr-0 text-muted">Devloper</li>
+                        <li class="list-inline-item mr-0 text-muted">Consultoria</li>
+                        <li class="list-inline-item mr-0 text-muted">Desenvolvimento</li>
+                        <li class="list-inline-item mr-0 text-muted">Designe</li>
                     </ul>
-                    <p class="text-muted mt-3">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+                    <p class="text-muted mt-3">Abordamos projetos de automação, análise de dados, IA, segurança
+                        cibernética e nuvem</p>
                     <div class="progress-bars skill-custom mt-4">
                         <div class="clearfix">
-                            <div class="text-dark font-weight-bold float-left">Development</div>
-                            <div class="text-muted float-right">80%</div>
+                            <div class="text-dark font-weight-bold float-left">Desenvolvimento</div>
+                            <div class="text-muted float-right">100%</div>
                         </div>
                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="0"
+                                aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                         <div class="clearfix">
-                            <div class="text-dark font-weight-bold float-left">WordPress</div>
-                            <div class="text-muted float-right">59%</div>
+                            <div class="text-dark font-weight-bold float-left">Edição de Vídeo</div>
+                            <div class="text-muted float-right">100%</div>
                         </div>
                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" style="width: 59%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="25"
+                                aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                         <div class="clearfix">
-                            <div class="text-dark font-weight-bold float-left">Photoshop</div>
-                            <div class="text-muted float-right">88%</div>
+                            <div class="text-dark font-weight-bold float-left">Consultoria</div>
+                            <div class="text-muted float-right">100%</div>
                         </div>
                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" style="width: 88%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="0"
+                                aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
-                    </div>
-                    <div class="pt-4">
-                        <img src="img/sign.gif" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -99,9 +103,9 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section_title text-center">
-                    <h3>Our <span class="font-weight-bold">Services</span></h3>
+                    <h3>Nossos <span class="font-weight-bold">Serviços</span></h3>
                     <div class="vr_line mx-auto d-block"></div>
-                    <p class="sec_subtitle mx-auto text-muted pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p class="sec_subtitle mx-auto text-muted pt-2">Confira alguns dos nossos serviços.</p>
                 </div>
             </div>
         </div>
@@ -112,9 +116,11 @@
                         <h2>01.</h2>
                     </div>
                     <div class="services_content mt-3">
-                        <h5 class="mb-0 font-weight-bold">Graphic Design</h5>
-                        <p class="text-muted mb-0 mt-2">The standard chunk of Lorem Ipsum used since the is reproduced below for those interested.</p>
-                    </div>                            
+                        <h5 class="mb-0 font-weight-bold">Desenvolvimento</h5>
+                        <p class="text-muted mb-0 mt-2">o desenvolvimento de sistemas ou programas de computador que não
+                            permitem customizações (adaptações às necessidades específicas de um cliente ou mercado
+                            particular).</p>
+                    </div>
                     <div class="read_more">
                         <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
                     </div>
@@ -126,9 +132,11 @@
                         <h2>02.</h2>
                     </div>
                     <div class="services_content mt-3">
-                        <h5 class="mb-0 font-weight-bold">Graphic Design</h5>
-                        <p class="text-muted mb-0 mt-2">The standard chunk of Lorem Ipsum used since the is reproduced below for those interested.</p>
-                    </div>                            
+                        <h5 class="mb-0 font-weight-bold">Portais</h5>
+                        <p class="text-muted mb-0 mt-2">a operação de páginas de internet (websites) ou de ferramentas
+                            de busca (search engine) para gerar e manter grandes bases de dados de endereços e conteúdos
+                            de internet.<br><br></p>
+                    </div>
                     <div class="read_more">
                         <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
                     </div>
@@ -140,9 +148,11 @@
                         <h2>03.</h2>
                     </div>
                     <div class="services_content mt-3">
-                        <h5 class="mb-0 font-weight-bold">Graphic Design</h5>
-                        <p class="text-muted mb-0 mt-2">The standard chunk of Lorem Ipsum used since the is reproduced below for those interested.</p>
-                    </div>                            
+                        <h5 class="mb-0 font-weight-bold">Treinamentos</h5>
+                        <p class="text-muted mb-0 mt-2">erviços de palestrante, Treinamento em desenvolvimento
+                            profissional e gerencial, Curso de aperfeiçoamento jurídico, Presencial e à distância curso
+                            de aprendizagem e treinamento gerencial.</p>
+                    </div>
                     <div class="read_more">
                         <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
                     </div>
@@ -156,9 +166,11 @@
                         <h2>04.</h2>
                     </div>
                     <div class="services_content mt-3">
-                        <h5 class="mb-0 font-weight-bold">Graphic Design</h5>
-                        <p class="text-muted mb-0 mt-2">The standard chunk of Lorem Ipsum used since the is reproduced below for those interested.</p>
-                    </div>                            
+                        <h5 class="mb-0 font-weight-bold">Licenciamento de Programas</h5>
+                        <p class="text-muted mb-0 mt-2">o desenvolvimento de sistemas ou programas de computador
+                            (software) que permitem a realização de customizações (adaptações às necessidades
+                            específicas de um cliente ou mercado particular).</p>
+                    </div>
                     <div class="read_more">
                         <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
                     </div>
@@ -170,9 +182,11 @@
                         <h2>05.</h2>
                     </div>
                     <div class="services_content mt-3">
-                        <h5 class="mb-0 font-weight-bold">Graphic Design</h5>
-                        <p class="text-muted mb-0 mt-2">The standard chunk of Lorem Ipsum used since the is reproduced below for those interested.</p>
-                    </div>                            
+                        <h5 class="mb-0 font-weight-bold">Consultoria</h5>
+                        <p class="text-muted mb-0 mt-2">a análise para determinação das necessidades do cliente ou do
+                            mercado potencial e a especificação técnica do sistema quanto à definição das
+                            funcionalidades e campo de aplicação</p>
+                    </div>
                     <div class="read_more">
                         <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
                     </div>
@@ -184,9 +198,11 @@
                         <h2>06.</h2>
                     </div>
                     <div class="services_content mt-3">
-                        <h5 class="mb-0 font-weight-bold">Graphic Design</h5>
-                        <p class="text-muted mb-0 mt-2">The standard chunk of Lorem Ipsum used since the is reproduced below for those interested.</p>
-                    </div>                            
+                        <h5 class="mb-0 font-weight-bold"> Suporte Técnico</h5>
+                        <p class="text-muted mb-0 mt-2">as atividades de assessoramento ao usuário na utilização de
+                            sistemas, remotamente ou em suas instalações, de modo a superar qualquer perda de
+                            performance ou dificuldade de utilização (help-desk)</p>
+                    </div>
                     <div class="read_more">
                         <a href="#" class="text-custom"><i class="pe-7s-pen"></i></a>
                     </div>
@@ -197,118 +213,8 @@
 </section>
 <!-- End Services -->
 
-<!-- Start Education -->
-<section class="section" id="resume">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="section_title text-center">
-                    <h3>Best <span class="font-weight-bold">Education & Experiance</span></h3>
-                    <div class="vr_line mx-auto d-block"></div>
-                    <p class="sec_subtitle mx-auto text-muted pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                </div>
-            </div>
-        </div>
-        <div class="row mt-3 pt-3 vertical-content">
-            <div class="col-lg-6">
-                <div class="futures_boxes mt-3">
-                    <h3 class="font-weight-bold">Studied At Cambridge University</h3>
-                    <p class="text-muted mt-3">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
-                    <div class="futures_icon pt-2">
-                        <p><span>Start</span><b> 2010-2018</b></p>
-                        <p><span><i class="mdi mdi-arrow-right"></i></span> Master In Computer Science.</p>
-                        <p><span><i class="mdi mdi-arrow-right"></i></span> Bootstrap Html Css Design.</p>
-                        <p><span><i class="mdi mdi-arrow-right"></i></span> Planing & Strategy.</p>
-                    </div>
-                    <div class="read_more_aero">
-                        <a href="#" class="text-custom"><i class="mdi mdi-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="pt-2">
-                    <img src="img/img1.png" class="img-fluid mx-auto d-block" alt="">
-                </div>
-            </div>
-        </div>
-        <div class="row mt-4 pt-4 vertical-content">
-            <div class="col-lg-6">
-                <div class="pt-2">
-                    <img src="img/img2.png" class="img-fluid mx-auto d-block" alt="">
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="futures_boxes mt-3">
-                    <h3 class="font-weight-bold">UI/UX Designer</h3>
-                    <p class="text-muted mt-3">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
-                    <div class="futures_icon pt-2">
-                        <p><span>Start</span><b> 2010-2018</b></p>
-                        <p><span><i class="mdi mdi-arrow-right"></i></i></span> Senior Graphic Designer.</p>
-                        <p><span><i class="mdi mdi-arrow-right"></i></i></span> Web Developer.</p>
-                        <p><span><i class="mdi mdi-arrow-right"></i></i></span> Freelancer And Themeforest.</p>
-                    </div>
-                    <div class="read_more_aero">
-                        <a href="#" class="text-custom"><i class="mdi mdi-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Education -->
 
-<!-- Start Cta -->
-<section class="section bg-cta-img">
-    <div class="bg-overlay"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="text-center">
-                    <h1 class="font-weight-normal text-white">I Am Available For Freelancer.</h1>
 
-                    <div class="mt-4 pt-3">
-                        <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-outline-custom btn-rounded" data-toggle="modal" data-target="#exampleModalCenter">Hire Me!</button>
-
-                        <!-- Modal -->
-                        <div class="modal fade" id="exampleModalCenter">
-                            <div class="modal-dialog modal-dialog-centered" role="document">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <h5 class="modal-title mb-0 font-weight-bold" id="exampleModalLongTitle">I Am Available For Freelancer.</h5>
-                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                            <span aria-hidden="true">&times;</span>
-                                            </button>
-                                    </div>
-                                    <div class="modal-body">
-                                        <form class="hire-form">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" id="fname" placeholder="First Name">
-                                            </div>
-                                            <div class="form-group">
-                                                <input type="email" class="form-control" id="semail" placeholder="Email">
-                                            </div>
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" id="cname" placeholder="Company Name">
-                                            </div>
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" id="mnumber" placeholder="Mobile Name">
-                                            </div>
-                                            <div>
-                                                <button class="btn btn-custom w-100">Send Data</button>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Cta -->
 
 <!-- Start Work -->
 <section class="section" id="work">
@@ -316,20 +222,21 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section_title text-center">
-                    <h3>My Recent<span class="font-weight-bold"> Work</span></h3>
+                    <h3>Trabalhos<span class="font-weight-bold"> Recentes</span></h3>
                     <div class="vr_line mx-auto d-block"></div>
-                    <p class="sec_subtitle mx-auto text-muted pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p class="sec_subtitle mx-auto text-muted pt-2">Ut enim ad minim veniam, quis nostrud exercitation
+                        ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
             </div>
         </div>
         <div class="row mt-3">
             <div class="col-lg-12">
                 <ul class="text-center list-unstyled list-inline mb-0 text-capitlize work_menu" id="menu-filter">
-                    <li class="list-inline-item"><a class="active" data-filter="*">All</a></li>
+                    <li class="list-inline-item"><a class="active" data-filter="*">Todos</a></li>
                     <li class="list-inline-item"><a class="" data-filter=".seo">Seo</a></li>
                     <li class="list-inline-item"><a class="" data-filter=".webdesign">Webdesign</a></li>
-                    <li class="list-inline-item"><a class="" data-filter=".work">Work</a></li>
-                    <li class="list-inline-item"><a class="" data-filter=".wordpress">Wordpress</a></li>
+                    <li class="list-inline-item"><a class="" data-filter=".work">LMS</a></li>
+                    <li class="list-inline-item"><a class="" data-filter=".wordpress">Sistemas Admnistrativos</a></li>
                 </ul>
             </div>
         </div>
@@ -417,9 +324,8 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section_title text-center">
-                    <h3>Our <span class="font-weight-bold">Client's</span></h3>
+                    <h3>Nossos <span class="font-weight-bold">Sócios</span></h3>
                     <div class="vr_line mx-auto d-block"></div>
-                    <p class="sec_subtitle mx-auto text-muted pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
             </div>
         </div>
@@ -427,31 +333,38 @@
             <div class="col-lg-4">
                 <div class="client_boxes mt-3 text-center">
                     <div class="mt-3">
-                        <img src="img/client/client-1.jpg" alt="" class="img-fluid rounded-circle ml-3">
+                        <img src="img/client/alandiniz.jpg" alt="" class="img-fluid rounded-circle ml-3">
                     </div>
-                    <h6 class="text-muted font-weight-bold mb-0 mt-3">Laryy Matthews</h6>
-                    <h5 class="font-weight-bold p-0 mt-2">CO-FOUNDER AND CTO</h5>
-                    <p class="text-muted m-3">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid Anim pariatur cliche reprehenderit.</p>
+                    <h6 class="text-muted font-weight-bold mb-0 mt-4">Alan Diniz</h6>
+                    <h5 class="font-weight-bold p-0 mt-2">Programador e Editor</h5>
+                    <p class="text-muted m-3">Mestrando em Gestão de Sistemas de Engenharia - UCP<br>
+                        Graduação em Sistema de Informação - Univ. Estácio de Sá<br>
+                        Especialista em Desenvolvimento Web<br><br><br></p>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="client_boxes mt-3 text-center">
                     <div class="mt-3">
-                        <img src="img/client/client-2.jpg" alt="" class="img-fluid rounded-circle ml-3">
+                        <img src="img/client/fabio.png" alt="" class="img-fluid rounded-circle ml-3">
                     </div>
-                    <h6 class="text-muted font-weight-bold mb-0 mt-3">Laryy Matthews</h6>
-                    <h5 class="font-weight-bold p-0 mt-2">CO-FOUNDER AND CTO</h5>
-                    <p class="text-muted m-3">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid Anim pariatur cliche reprehenderit.</p>
+                    <h6 class="text-muted font-weight-bold mb-0 mt-3">Fabio Licht</h6>
+                    <h5 class="font-weight-bold p-0 mt-2">CEO Pan-It</h5>
+                    <p class="text-muted m-3">Doutorado em Informática - UFPR<br>
+                        Mestrado em Sistemas e Computação - IME<br>                        
+                        Graduação em Ciência da Computação - UCP.<br><br><br></p>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="client_boxes mt-3 text-center">
                     <div class="mt-3">
-                        <img src="img/client/client-3.jpg" alt="" class="img-fluid rounded-circle ml-3">
+                        <img src="img/client/artur.png" alt="" class="img-fluid rounded-circle ml-3">
                     </div>
-                    <h6 class="text-muted font-weight-bold mb-0 mt-3">Laryy Matthews</h6>
-                    <h5 class="font-weight-bold p-0 mt-2">CO-FOUNDER AND CTO</h5>
-                    <p class="text-muted m-3">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid Anim pariatur cliche reprehenderit.</p>
+                    <h6 class="text-muted font-weight-bold mb-0 mt-3">Artur Rossi</h6>
+                    <h5 class="font-weight-bold p-0 mt-2">Programador Full Stack </h5>
+                    <p class="text-muted m-3">Doutorando em Biofísica - UFRJ<br>
+                        Mestrado em Modelagem computacional - UFJF<br>                        
+                        Graduação em Engenharia da Computação - UCP<br>                        
+                        Graduação em Tecnologia da Informação e Comunicação - FAETERJ.</p>
                 </div>
             </div>
         </div>
@@ -460,6 +373,7 @@
 <!-- End Client -->
 
 <!-- Start Great People -->
+<!--
 <section class="section bg-people">
     <div class="bg-overlay"></div>
     <div class="container">
@@ -468,7 +382,8 @@
                 <div class="section_title text-center text-white">
                     <h3>Trusted By<span class="font-weight-bold"> Great People</span></h3>
                     <div class="vr_line mx-auto d-block"></div>
-                    <p class="sec_subtitle mx-auto pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p class="sec_subtitle mx-auto pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                        laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
             </div>
         </div>
@@ -505,68 +420,9 @@
             </div>
         </div>
     </div>
-</section>
+</section>-->
 <!-- End Great People -->
 
-<!-- Start Blog -->
-<section class="section" id="blog">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="section_title text-center">
-                    <h3>Our Latest <span class="font-weight-bold">News</span></h3>
-                    <div class="vr_line mx-auto d-block"></div>
-                    <p class="sec_subtitle mx-auto text-muted pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                </div>
-            </div>
-        </div>
-        <div class="row mt-3">
-            <div class="col-lg-4">
-                <div class="blog_box_contant mt-3">
-                    <div class="bolg_img p-2">
-                        <img src="img/blog/blog1.jpg" alt="Responsive img" class="img-fluid rounded">
-                    </div>
-                    <div class="blog_box_detail pl-4 pr-4 pb-3">
-                        <p class="labal text-muted">Business 4 MIN READ</p>
-                        <h5 class="font-weight-bold"><a href="#" class="text-dark">Aliquem erat Volupat</a></h5>
-                        <p class="text-muted ">It is a long established fact that a reader will be distracted by the readable content</p>
-                        <span>M</span>
-                        Mark Stapp | 12.25.18
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="blog_box_contant mt-3">
-                    <div class="bolg_img p-2">
-                        <img src="img/blog/blog2.jpg" alt="Responsive img" class="img-fluid rounded">
-                    </div>
-                    <div class="blog_box_detail pl-4 pr-4 pb-3">
-                        <p class="labal text-muted">Editing 10 MIN READ</p>
-                        <h5 class="font-weight-bold"><a href="#" class="text-dark">Contrary to popular</a></h5>
-                        <p class="text-muted ">It is a long established fact that a reader will be distracted by the readable content</p>
-                        <span>T</span>
-                        Thom Mayn | 08.18.18
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="blog_box_contant mt-3">
-                    <div class="bolg_img p-2">
-                        <img src="img/blog/blog3.jpg" alt="Responsive img" class="img-fluid rounded">
-                    </div>
-                    <div class="blog_box_detail pl-4 pr-4 pb-3">
-                        <p class="labal text-muted">Workflow 4 MIN READ</p>
-                        <h5 class="font-weight-bold"><a href="#" class="text-dark">Put title for single Blog</a></h5>
-                        <p class="text-muted">It is a long established fact that a reader will be distracted by the readable content</p>
-                        <span>N</span>
-                        Nannie Davis | 09.27.18
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Blog --> 
 
 <!-- Start Contact -->
 <section class="section_all bg-light" id="contact">
@@ -574,9 +430,9 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section_title text-center">
-                    <h3 class="font-weight-bold">Get In Tuch</h3>
+                    <h3 class="font-weight-bold">Contato</h3>
                     <div class="vr_line mx-auto d-block"></div>
-                    <p class="sec_subtitle mx-auto text-muted pt-2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    
                 </div>
             </div>
         </div>
@@ -588,8 +444,8 @@
                             <i class="pe-7s-map-marker text_custom mr-3"></i>
                         </div>
                         <div class="contact_detail">
-                            <h6 class="font-weight-bold">Address</h6>
-                            <p class="text-muted mb-0">1286 Willison Street <br>Minneapolis, MN 55415</p>
+                            <h6 class="font-weight-bold">Endereço</h6>
+                            <p class="text-muted mb-0">Rua Major Sergio, 145 <br>Mosela, Petrópolis</p>
                         </div>
                     </div>
                     <div class="contact_details_content bg-white p-3 mt-3">
@@ -597,8 +453,8 @@
                             <i class="pe-7s-mail-open text_custom mr-3"></i>
                         </div>
                         <div class="contact_detail">
-                            <h6 class="font-weight-bold">Mail</h6>
-                            <p class="text-muted mb-0">Support@mail.com</p>
+                            <h6 class="font-weight-bold">Email</h6>
+                            <p class="text-muted mb-0">contato@pan-it.com.br</p>
                         </div>
                     </div>
                     <div class="contact_details_content bg-white p-3 mt-3">
@@ -606,8 +462,8 @@
                             <i class="pe-7s-phone text_custom mr-3"></i>
                         </div>
                         <div class="contact_detail">
-                            <h6 class="font-weight-bold">Call</h6>
-                            <p class="text-muted mb-0">+386-202-1907, <br>+903-812-9462.</p>
+                            <h6 class="font-weight-bold">Telefone</h6>
+                            <p  class="text-muted mb-0"> (24) 98115-6051 </p>
                         </div>
                     </div>
                 </div>
@@ -622,27 +478,32 @@
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
-                            <input name="email" id="email" type="email" class="form-control" placeholder="Seu Email..." required>
+                            <input name="email" id="email" type="email" class="form-control" placeholder="Seu Email..."
+                                required>
                         </div>
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
-                            <input type="text" name="telefone" id="telefone" class="form-control" placeholder="Digite um número de telefone..." maxlength="15" />
+                            <input type="text" name="telefone" id="telefone" class="form-control"
+                                placeholder="Digite um número de telefone..." maxlength="15" />
                         </div>
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
-                            <input type="text" class="form-control" id="subject" name="subject" placeholder="Assunto...">
+                            <input type="text" class="form-control" id="subject" name="subject"
+                                placeholder="Assunto...">
                         </div>
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
-                            <textarea name="mensage" id="mensage" rows="4" class="form-control" placeholder="Sua Mensagem..." required></textarea>
+                            <textarea name="mensage" id="mensage" rows="4" class="form-control"
+                                placeholder="Sua Mensagem..." required></textarea>
                         </div>
                     </div>
                     <div class="form-row mt-3">
                         <div class="col">
-                            <input type="submit" id="submit" name="send" class="submitBnt btn btn-custom" value="Enviar Mensagem">
+                            <input type="submit" id="submit" name="send" class="submitBnt btn btn-custom"
+                                value="Enviar Mensagem">
                         </div>
                     </div>
                 </form>
@@ -653,4 +514,3 @@
 <!-- End Contact -->
 @include('sweetalert::alert')
 @include('layout.footer')
-

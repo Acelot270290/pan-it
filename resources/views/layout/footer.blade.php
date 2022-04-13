@@ -4,58 +4,15 @@
         <div class="row pt-5 pb-5">
             <div class="col-lg-12">
                 <div class="text-center footer_about">
-                    <h3 class="text-white font-weight-bold mb-0">Let's Get Started Oskar</h3>
-                    <p class="mx-auto mt-4 mb-0">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-                        ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-                        esse cillum dolore eu fugiat nulla pariatur.</p>
+                    <h3 class="text-white font-weight-bold mb-0">Seja um dos nossos clientes</h3>
+                    <p class="mx-auto mt-4 mb-0">A tecnologia pode se tornar uma grande aliada na gestão do relacionamento com o cliente e, consequentemente, influenciar positivamente na experiência vivida na sua empresa.</p>
                 </div>
                 <div class="text-center mt-4">
-                    <button type="button" class="btn btn-outline-custom btn-rounded" data-toggle="modal"
-                        data-target="#exampleModalCenter">Let's Get!</button>
+                    <a href="#contact" type="button" class="btn btn-outline-custom btn-rounded">Entre em Contato</a>
                 </div>
             </div>
         </div>
-        <div class="row mt-3">
-            <div class="col-lg-3">
-                <h6 class="mt-3 text-white text-uppercase">Important Link</h6>
-                <ul class="list-unstyled footer_menu_list mt-3">
-                    <li><a href="#">Terms & Condition</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">Return Policy</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Sitemap</a></li>
-                </ul>
-            </div>
-            <div class="col-lg-3">
-                <h6 class="mt-3 text-white text-uppercase">Our Pages</h6>
-                <ul class="list-unstyled footer_menu_list mt-3">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Features</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Client</a></li>
-                    <li><a href="#">Pricing</a></li>
-                </ul>
-            </div>
-            <div class="col-lg-3">
-                <h6 class="mt-3 text-white text-uppercase">Support</h6>
-                <ul class="list-unstyled footer_menu_list mt-3">
-                    <li><a href="#">Help Center</a></li>
-                    <li><a href="#">Live Chat</a></li>
-                    <li><a href="#">Downloads</a></li>
-                    <li><a href="#">Press Kit</a></li>
-                </ul>
-            </div>
-            <div class="col-lg-3">
-                <h6 class="mt-3 text-white text-uppercase">Locations</h6>
-                <ul class="list-unstyled footer_menu_list mt-3">
-                    <li><a href="#">Melbourne</a></li>
-                    <li><a href="#">London</a></li>
-                    <li><a href="#">New York</a></li>
-                    <li><a href="#">San Francisco</a></li>
-                    <li><a href="#">Ontario</a></li>
-                </ul>
-            </div>
-        </div>
+        
         <div class="fot_bor"></div>
         <div class="row pt-3 pb-3">
             <div class="col-lg-12">
@@ -63,7 +20,8 @@
                     <p class="copy-rights mb-0"><a target="_blank" href="#">Pan-It</a>
                     </p>
                 </div>
-                <div class="float-right float_none">
+                <!-- Redes Sociais -->
+               <!-- <div class="float-right float_none">
                     <ul class="list-inline fot_social mb-0">
                         <li class="list-inline-item"><a href="#" class="social-icon text-muted"><i
                                     class="mdi mdi-facebook"></i></a></li>
@@ -75,7 +33,7 @@
                                     class="mdi mdi-google-plus"></i></a></li>
                     </ul>
                 </div>
-            </div>
+            </div>-->
         </div>
     </div>
 </footer>
