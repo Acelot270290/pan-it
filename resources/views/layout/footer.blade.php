@@ -5,14 +5,16 @@
             <div class="col-lg-12">
                 <div class="text-center footer_about">
                     <h3 class="text-white font-weight-bold mb-0">Seja um dos nossos clientes</h3>
-                    <p class="mx-auto mt-4 mb-0">A tecnologia pode se tornar uma grande aliada na gestão do relacionamento com o cliente e, consequentemente, influenciar positivamente na experiência vivida na sua empresa.</p>
+                    <p class="mx-auto mt-4 mb-0">A tecnologia pode se tornar uma grande aliada na gestão do
+                        relacionamento com o cliente e, consequentemente, influenciar positivamente na experiência
+                        vivida na sua empresa.</p>
                 </div>
                 <div class="text-center mt-4">
                     <a href="#contact" type="button" class="btn btn-outline-custom btn-rounded">Entre em Contato</a>
                 </div>
             </div>
         </div>
-        
+
         <div class="fot_bor"></div>
         <div class="row pt-3 pb-3">
             <div class="col-lg-12">
@@ -21,7 +23,7 @@
                     </p>
                 </div>
                 <!-- Redes Sociais -->
-               <!-- <div class="float-right float_none">
+                <!-- <div class="float-right float_none">
                     <ul class="list-inline fot_social mb-0">
                         <li class="list-inline-item"><a href="#" class="social-icon text-muted"><i
                                     class="mdi mdi-facebook"></i></a></li>
@@ -34,13 +36,13 @@
                     </ul>
                 </div>
             </div>-->
+            </div>
         </div>
-    </div>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="https://wa.me/5524981156051?text=Quero entrar em contato" style="position:fixed;width:60px;height:60px;bottom:40px;left:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <a href="https://wa.me/5524981156051?text=Quero entrar em contato" style="position:fixed;width:60px;height:60px;bottom:40px;left:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
   z-index:1000;" target="_blank">
-<i style="margin-top:16px" class="fa fa-whatsapp"></i>
-</a>
+            <i style="margin-top:16px" class="fa fa-whatsapp"></i>
+        </a>
 </footer>
 <!-- End Footer -->
 
