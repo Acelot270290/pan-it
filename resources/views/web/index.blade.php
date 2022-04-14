@@ -224,8 +224,7 @@
                 <div class="section_title text-center">
                     <h3>Trabalhos<span class="font-weight-bold"> Recentes</span></h3>
                     <div class="vr_line mx-auto d-block"></div>
-                    <p class="sec_subtitle mx-auto text-muted pt-2">Ut enim ad minim veniam, quis nostrud exercitation
-                        ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p class="sec_subtitle mx-auto text-muted pt-2">Confira os nossos trabalhos.</p>
                 </div>
             </div>
         </div>
